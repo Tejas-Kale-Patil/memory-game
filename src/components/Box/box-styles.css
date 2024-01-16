@@ -1,0 +1,6 @@
+.box{
+    width:25%;
+    background-color: palevioletred;
+    height: width;
+    border: 2px solid black;
+}
